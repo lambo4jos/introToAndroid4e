@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert1">Alert Dialog #1</string>
+    <string name="alert2">Alert Dialog #2</string>
+    <string name="app_name">Support Frag Dialog</string>
+</resources>

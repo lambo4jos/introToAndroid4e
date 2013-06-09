@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Alternative Resources</string>
+    <string name="orientation">Unknown Orientation (Highly Unlikely)</string>
+    <string name="imageview">imageView</string>
+</resources>

@@ -1,0 +1,25 @@
+
+	<!--
+		This is a simple menu definition file. We use this file to inflate a
+		context menu in the code. We set the Title attributes (the menu
+		labels) using strings and string references. We set the order of the
+		menu items
+	-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item 
+	    android:id="@+id/noscroll_menu_item" 
+	    android:title="@string/no_scrolling"
+		android:orderInCategory="1"/>
+	<item 
+	    android:id="@+id/verticalscroll_menu_item" 
+	    android:title="@string/vertical_scrolling"
+		android:orderInCategory="2"/>
+	<item 
+	    android:id="@+id/horizontalscroll_menu_item" 
+	    android:title="@string/horizontal_scrolling"
+		android:orderInCategory="3"/>
+	<item 
+	    android:id="@+id/bothscroll_menu_item" 
+	    android:title="@string/horz_and_vert_scrolling"
+		android:orderInCategory="4"/>
+</menu>

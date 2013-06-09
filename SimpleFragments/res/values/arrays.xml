@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="fieldnotes_array">
+        <item>Giraffe</item>
+        <item>African Lion</item>
+        <item>Zebra</item>
+        <item>Baboon</item>
+        <item>Greater Kudu</item>
+        <item>African Elephant</item>
+        <item>Cheetah</item>
+        <item>Waterbuck</item>
+        <item>Warthog</item>
+        <item>Leopard</item>
+        <item>Spotted Hyena</item>
+        <item>Crocodile</item>
+        <item>Wildebeest</item>
+        <item>Rhinoceros</item>
+        <item>Hippopotamus</item>
+        <item>Cape Buffalo</item>
+        <item>Black-backed Jackal</item>
+        <item>Duiker</item>
+        <item>Impala</item>
+    </string-array>
+    <string-array
+        name="fieldnoteurls_array">
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_9.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_6.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_5.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_11.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_19.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_12.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_10.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_14.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_18.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_20.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_3.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_13.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_16.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_2.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_4.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_7.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_17.html
+        </item>
+        <item>http://www.perlgurl.org/archives/2006/02/african_field_n_15.html
+        </item>
+    </string-array>
+</resources>

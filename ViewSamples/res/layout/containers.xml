@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:id="@+id/RelativeLayout02"
+	android:layout_height="fill_parent" 
+	android:layout_width="fill_parent">
+	<ImageSwitcher
+		android:id="@+id/img_switch"
+		android:outAnimation="@anim/anim" 
+		android:inAnimation="@anim/anim_in" 
+		android:layout_centerInParent="true" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+		<ImageView
+			android:id="@+id/ImageView01"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:src="@drawable/droidgrn"
+			android:layout_gravity="center" 
+			android:contentDescription="@string/droidGreen"/>
+		<ImageView
+			android:id="@+id/ImageView02"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:src="@drawable/droidorg"
+			android:layout_gravity="center" 
+			android:contentDescription="@string/droidOrange"/>
+	</ImageSwitcher>
+	<Button
+		android:id="@+id/flip_button"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/flip"
+		android:layout_gravity="center" 
+		android:layout_centerHorizontal="true" />
+</RelativeLayout>
