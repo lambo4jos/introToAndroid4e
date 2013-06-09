@@ -7,6 +7,6 @@ These code samples will help you understand the contents of the book by allowing
 
 You can download the files as a zip package using the ZIP download button seen towards the top of this page, or you could use the following command from a command line to get the code.
 
-git clone git@github.com:lambo4jos/introToAndroid4e.git
+git clone https://github.com/lambo4jos/introToAndroid4e.git
 
 Happy learning!
