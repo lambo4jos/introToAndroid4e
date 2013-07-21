@@ -7,7 +7,6 @@ import java.io.InputStreamReader;
 
 import org.xmlpull.v1.XmlPullParserException;
 
-import com.androidintro.resourceroundup.R;
 
 import android.app.Activity;
 import android.content.res.XmlResourceParser;

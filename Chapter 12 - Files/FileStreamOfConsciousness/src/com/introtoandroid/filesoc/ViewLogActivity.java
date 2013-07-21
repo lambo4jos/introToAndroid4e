@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-import com.androidintro.filesoc.R;
 
 import android.app.Activity;
 import android.content.Intent;

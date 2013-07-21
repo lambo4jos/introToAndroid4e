@@ -1,6 +1,5 @@
 package com.introtoandroid.supportfragdialog;
 
-import com.androidbook.supportfragdialog.R;
 
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;

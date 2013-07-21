@@ -1,6 +1,5 @@
 package com.introtoandroid.simplelayout;
 
-import com.androidbook.simplelayout.R;
 
 import android.os.Bundle;
 

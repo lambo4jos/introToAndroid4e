@@ -1,6 +1,5 @@
 package com.introtoandroid.simplepreferences;
 
-import com.androidintro.simplepreferences.R;
 
 import android.app.Activity;
 import android.content.Intent;

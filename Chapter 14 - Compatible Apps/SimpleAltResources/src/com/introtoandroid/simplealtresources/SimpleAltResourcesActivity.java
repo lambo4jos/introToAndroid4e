@@ -1,6 +1,5 @@
 package com.introtoandroid.simplealtresources;
 
-import com.androidintro.simplealtresources.R;
 
 import android.app.Activity;
 import android.os.Bundle;

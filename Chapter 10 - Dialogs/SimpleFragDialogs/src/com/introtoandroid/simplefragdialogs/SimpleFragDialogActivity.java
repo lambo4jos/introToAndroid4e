@@ -2,7 +2,6 @@ package com.introtoandroid.simplefragdialogs;
 
 import java.util.Calendar;
 
-import com.androidintro.simplefragdialogs.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

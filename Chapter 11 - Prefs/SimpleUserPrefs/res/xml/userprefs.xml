@@ -21,11 +21,6 @@
             android:title="Enable Sound"
             android:summary="Turn sound on and off in the game"
             android:defaultValue="true" />
-        <CheckBoxPreference
-            android:key="bAllowCheats"
-            android:title="Enable Cheating"
-            android:summary="Turn the ability to cheat on and off in the game"
-            android:defaultValue="false" />
     </PreferenceCategory>
     <PreferenceCategory
         android:title="Character Gender and Race">

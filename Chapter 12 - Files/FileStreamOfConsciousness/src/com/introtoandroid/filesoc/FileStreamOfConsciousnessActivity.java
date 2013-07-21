@@ -2,7 +2,6 @@ package com.introtoandroid.filesoc;
 
 import java.io.FileOutputStream;
 
-import com.androidintro.filesoc.R;
 
 import android.app.Activity;
 import android.content.Intent;

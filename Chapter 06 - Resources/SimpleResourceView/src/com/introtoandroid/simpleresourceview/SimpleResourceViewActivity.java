@@ -1,6 +1,5 @@
 package com.introtoandroid.simpleresourceview;
 
-import com.androidintro.simpleresourceview.R;
 
 import android.os.Bundle;
 import android.app.Activity;

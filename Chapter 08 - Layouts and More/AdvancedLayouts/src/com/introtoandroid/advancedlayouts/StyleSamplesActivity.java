@@ -1,6 +1,5 @@
 package com.introtoandroid.advancedlayouts;
 
-import com.androidbook.advancedlayouts.R;
 
 import android.app.Activity;
 import android.os.Bundle;

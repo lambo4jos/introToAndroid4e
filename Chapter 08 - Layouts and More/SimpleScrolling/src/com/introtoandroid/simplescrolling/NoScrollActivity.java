@@ -1,6 +1,5 @@
 package com.introtoandroid.simplescrolling;
 
-import com.androidbook.simplescrolling.R;
 
 import android.os.Bundle;
 

@@ -1,6 +1,5 @@
 package com.introtoandroid.simplecontacts;
 
-import com.androidintro.simplecontacts.R;
 
 import android.app.Activity;
 import android.support.v4.content.CursorLoader;

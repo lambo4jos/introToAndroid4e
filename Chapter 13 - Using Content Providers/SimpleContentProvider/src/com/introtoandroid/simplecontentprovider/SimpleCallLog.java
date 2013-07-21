@@ -1,6 +1,5 @@
 package com.introtoandroid.simplecontentprovider;
 
-import com.androidintro.simplecontentprovider.R;
 
 import android.app.Activity;
 import android.support.v4.content.CursorLoader;

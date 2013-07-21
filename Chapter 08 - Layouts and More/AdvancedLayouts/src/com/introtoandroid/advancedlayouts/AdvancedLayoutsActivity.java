@@ -1,6 +1,5 @@
 package com.introtoandroid.advancedlayouts;
 
-import com.androidbook.advancedlayouts.R;
 
 import android.view.Menu;
 
@@ -17,7 +16,6 @@ public class AdvancedLayoutsActivity extends MenuActivity {
         addMenuItem("5. Styles", StyleSamplesActivity.class);
         addMenuItem("6. Grid, List", GridListMenuActivity.class);
         addMenuItem("7. Dialog", DialogActivity.class);
-        addMenuItem("8. Drawer", DrawerActivity.class);
     }
     
 	@Override

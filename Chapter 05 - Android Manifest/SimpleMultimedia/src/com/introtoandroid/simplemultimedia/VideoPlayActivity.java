@@ -1,6 +1,5 @@
 package com.introtoandroid.simplemultimedia;
 
-import com.androidintro.simplemultimedia.R;
 
 import android.app.Activity;
 import android.net.Uri;

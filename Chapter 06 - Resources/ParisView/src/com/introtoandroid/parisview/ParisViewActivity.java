@@ -1,6 +1,5 @@
 package com.introtoandroid.parisview;
 
-import com.androidintro.parisview.R;
 
 import android.os.Bundle;
 import android.app.Activity;

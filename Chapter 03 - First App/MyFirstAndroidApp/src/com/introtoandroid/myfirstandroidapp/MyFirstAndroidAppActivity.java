@@ -1,6 +1,5 @@
 package com.introtoandroid.myfirstandroidapp;
 
-import com.androidintro.myfirstandroidapp.R;
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -29,6 +28,7 @@ public class MyFirstAndroidAppActivity extends Activity {
     
 	@Override
 	protected void onPause() {
+		super.onPause();
         Log.i(DEBUG_TAG, "In the onPause() method of the MyFirstAndroidAppActivity Class");
 	}
 

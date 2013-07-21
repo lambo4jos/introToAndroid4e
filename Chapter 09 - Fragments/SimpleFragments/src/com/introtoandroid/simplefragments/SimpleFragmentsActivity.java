@@ -1,7 +1,6 @@
 package com.introtoandroid.simplefragments;
 
 
-import com.androidintro.simplefragments.R;
 
 import android.app.Activity;
 import android.os.Bundle;

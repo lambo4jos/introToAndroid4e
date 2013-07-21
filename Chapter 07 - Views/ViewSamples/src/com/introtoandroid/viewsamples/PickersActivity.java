@@ -2,7 +2,6 @@ package com.introtoandroid.viewsamples;
 
 import java.util.Calendar;
 
-import com.androidintro.viewsamples.R;
 
 import android.app.Activity;
 import android.os.Bundle;

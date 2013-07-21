@@ -1,5 +1,5 @@
 package com.introtoandroid.advancedlayouts;
-import com.androidbook.advancedlayouts.R;import android.app.Activity;
+import android.app.Activity;
 import android.content.CursorLoader;import android.database.Cursor;
 import android.os.Bundle;import android.provider.ContactsContract;
 import android.view.View;

@@ -2,7 +2,6 @@ package com.introtoandroid.userprefsheaders;
 
 import java.util.List;
 
-import com.androidintro.userprefsheaders.R;
 
 import android.os.Bundle;
 import android.preference.PreferenceActivity;

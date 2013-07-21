@@ -1,6 +1,5 @@
 package com.introtoandroid.simplescrolling;
 
-import com.androidbook.simplescrolling.R;
 import com.introtoandroid.simplescrolling.MenuActivity;
 
 import android.os.Bundle;

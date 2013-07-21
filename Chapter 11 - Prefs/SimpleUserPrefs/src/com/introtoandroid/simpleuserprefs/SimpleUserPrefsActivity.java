@@ -1,6 +1,5 @@
 package com.introtoandroid.simpleuserprefs;
 
-import com.androidintro.simpleuserprefs.R;
 
 import android.os.Bundle;
 import android.preference.PreferenceActivity;

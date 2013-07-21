@@ -4,7 +4,6 @@ import java.io.FileOutputStream;
 import java.util.List;
 import java.util.ListIterator;
 
-import com.androidintro.simplemultimedia.R;
 
 import android.app.Activity;
 import android.app.WallpaperManager;

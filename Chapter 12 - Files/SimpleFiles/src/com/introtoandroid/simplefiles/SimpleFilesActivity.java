@@ -7,7 +7,6 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-import com.androidintro.simplefiles.R;
 
 import android.app.Activity;
 import android.os.Bundle;

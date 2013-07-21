@@ -1,6 +1,5 @@
 package com.introtoandroid.samelayout;
 
-import com.androidbook.samelayout.R;
 import com.introtoandroid.samelayout.MenuActivity;
 
 import android.os.Bundle;
