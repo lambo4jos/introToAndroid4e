@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Navigation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_child">FirstChildActivity</string>
+    <string name="title_activity_second_child">SecondChildActivity</string>
+    <string name="title_activity_third_child">ThirdChildActivity</string>
+    <string name="lateral_second_child">Lateral - Second Child</string>
+    <string name="descendant_first_child">Descendant - First Child</string>
+    <string name="descendant_second_child">Descendant - Second Child</string>
+    <string name="descendant_third_child">Descendant - Third Child</string>
+    <string name="lateral_third_child">Lateral - Third Child</string>
+    <string name="lateral_first_child">Lateral - First Child</string>
+
+</resources>

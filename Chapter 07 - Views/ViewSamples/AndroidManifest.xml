@@ -14,7 +14,7 @@
         android:theme="@style/AppTheme" 
         android:allowBackup="false">
         <activity
-            android:name="com.androidintro.viewsamples.ViewSampleActivity"
+            android:name="com.introtoandroid.viewsamples.ViewSampleActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

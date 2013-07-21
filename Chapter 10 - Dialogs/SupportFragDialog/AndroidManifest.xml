@@ -11,7 +11,7 @@
         android:label="@string/app_name" 
         android:allowBackup="false">
         <activity 
-            android:name="com.androidbook.supportfragdialog.SupportFragDialogActivity"
+            android:name="com.introtoandroid.supportfragdialog.SupportFragDialogActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -21,7 +21,7 @@
         android:allowBackup="false">
         <activity
             android:label="@string/app_name"
-            android:name=".AdvancedLayoutsActivity" >
+            android:name="com.introtoandroid.advancedlayouts.AdvancedLayoutsActivity" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

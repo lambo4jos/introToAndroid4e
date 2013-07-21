@@ -15,7 +15,7 @@
         android:allowBackup="false"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.androidintro.simplefragments.SimpleFragmentsActivity"
+            android:name="com.introtoandroid.simplefragments.SimpleFragmentsActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action
@@ -24,6 +24,6 @@
                     android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.androidintro.simplefragments.FieldNoteViewActivity" />
+        <activity android:name="com.introtoandroid.simplefragments.FieldNoteViewActivity" />
     </application>
 </manifest>

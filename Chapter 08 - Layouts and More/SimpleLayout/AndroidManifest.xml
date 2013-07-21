@@ -15,7 +15,7 @@
         android:allowBackup="false">
         <activity
             android:label="@string/app_name"
-            android:name=".SimpleLayoutActivity" >
+            android:name="com.introtoandroid.simplelayout.SimpleLayoutActivity" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
 

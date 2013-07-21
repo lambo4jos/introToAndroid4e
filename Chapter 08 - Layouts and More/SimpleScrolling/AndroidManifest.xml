@@ -13,7 +13,7 @@
         android:allowBackup="false">
         <activity
             android:label="@string/app_name"
-            android:name=".SimpleScrollingActivity" >
+            android:name="com.introtoandroid.simplescrolling.SimpleScrollingActivity" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
 

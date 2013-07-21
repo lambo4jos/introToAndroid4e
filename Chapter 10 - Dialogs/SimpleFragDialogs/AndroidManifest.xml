@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:allowBackup="false">
         <activity
-            android:name="com.androidintro.simplefragdialogs.SimpleFragDialogActivity"
+            android:name="com.introtoandroid.simplefragdialogs.SimpleFragDialogActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

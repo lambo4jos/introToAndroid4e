@@ -10,7 +10,7 @@
         android:icon="@drawable/ic_launcher" 
         android:label="@string/app_name" 
         android:allowBackup="false">
-        <activity android:name="com.androidintro.filesoc.FileStreamOfConsciousnessActivity"
+        <activity android:name="com.introtoandroid.filesoc.FileStreamOfConsciousnessActivity"
                   android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

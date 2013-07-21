@@ -11,7 +11,7 @@
         android:label="@string/app_name" 
         android:allowBackup="false">
         <activity 
-            android:name="com.androidintro.simplealtresources.SimpleAltResourcesActivity"
+            android:name="com.introtoandroid.simplealtresources.SimpleAltResourcesActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

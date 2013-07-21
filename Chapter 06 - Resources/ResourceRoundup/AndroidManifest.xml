@@ -13,7 +13,7 @@
         android:label="@string/app_name" 
         android:theme="@style/myAppIsStyling">
         <activity
-            android:name="com.androidintro.resourceroundup.ResourceRoundupActivity"
+            android:name="com.introtoandroid.resourceroundup.ResourceRoundupActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

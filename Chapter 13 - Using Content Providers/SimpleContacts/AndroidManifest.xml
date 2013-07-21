@@ -12,7 +12,7 @@
         android:icon="@drawable/ic_launcher" 
         android:label="@string/app_name" 
         android:allowBackup="false">
-        <activity android:name="com.androidintro.simplecontacts.SimpleContactsActivity"
+        <activity android:name="com.introtoandroid.simplecontacts.SimpleContactsActivity"
                   android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
