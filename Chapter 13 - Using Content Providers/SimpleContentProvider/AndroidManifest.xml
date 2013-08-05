@@ -6,7 +6,7 @@
     android:versionName="1.0"
     android:installLocation="auto">
     <uses-sdk
-        android:minSdkVersion="4" android:targetSdkVersion="17"/>
+        android:minSdkVersion="4" android:targetSdkVersion="18"/>
     <uses-permission
         android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS"></uses-permission>
     <uses-permission
