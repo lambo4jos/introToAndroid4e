@@ -31,7 +31,6 @@
         <activity android:name="BasicLayoutActivity" />
         <activity android:name="ContactAdapterActivity" />
         <activity android:name="DialogActivity" />
-        <activity android:name="DrawerActivity" />
         <activity android:name="GridLayoutActivity" />
         <activity android:name="MyListActivity" />
         <activity android:name="ListAdapterSampleActivity" />
