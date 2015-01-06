@@ -39,7 +39,7 @@
 			android:id="@+id/EditTextPrefName"
 			android:layout_height="wrap_content"
 			android:layout_width="fill_parent"
-			android:inputType="text|number"/>
+			android:inputType="text"/>
 		<TextView
 			android:layout_width="fill_parent"
 			android:layout_height="wrap_content"
