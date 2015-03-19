@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application theme. -->
+    <style name="myAppIsStyling" parent="android:Theme.Holo">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:textColor">#F00</item>
+        <item name="android:textSize">16pt</item>   
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+</resources>

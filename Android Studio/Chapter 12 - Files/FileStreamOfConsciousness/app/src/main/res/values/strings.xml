@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">File Stream Of Consciousness</string>
+    <string name="this_is_the_log_file">"This is the log file. "</string>
+    <string name="go_chat">Go Chat</string>
+    <string name="show_log_here">-Show Log Here-</string>
+    <string name="delete_log">Delete Log</string>
+    <string name="description">"Here you can chat with yourself and your conversation will be logged to a file. "</string>
+    <string name="chat_text_here_then_hit_send">Chat Text Here, Then Hit Send</string>
+    <string name="send">Send</string>
+    <string name="review_log_file">Review Log File</string>
+</resources>

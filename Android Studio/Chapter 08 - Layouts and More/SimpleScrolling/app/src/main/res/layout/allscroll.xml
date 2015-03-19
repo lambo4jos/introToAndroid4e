@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content" 
+	android:scrollbars="horizontal|vertical">
+	<HorizontalScrollView 
+    	android:id="@+id/HorizontalScrollView01"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+		<LinearLayout 
+			android:orientation="vertical" 
+			android:layout_width="wrap_content"
+			android:layout_height="fill_parent">
+			<ImageView 
+			    android:id="@+id/ImageView01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" 
+				android:src="@drawable/cover"
+				android:contentDescription="@string/cover"
+				android:scaleType="matrix"/>
+		</LinearLayout>
+	</HorizontalScrollView>
+</ScrollView>

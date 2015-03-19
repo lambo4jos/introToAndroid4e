@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Multimedia</string>
+    <string name="audio_record">Audio Record</string>
+    <string name="instructions">This example will record and play back an audio file called audio.mp4, which is located under the Files subdirectory of the application.</string>
+    <string name="start_record">Start Record</string>
+    <string name="stop_record">Stop Record</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="playback">Video Playback</string>
+    <string name="title">Camera Record, press appropriate button</string>
+    <string name="capture">Save as local file</string>
+    <string name="wallpaper">Set as Wallpaper</string>
+</resources>

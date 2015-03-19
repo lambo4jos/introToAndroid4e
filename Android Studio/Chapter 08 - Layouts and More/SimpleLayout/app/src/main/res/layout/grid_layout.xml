@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alignmentMode="alignMargins"
+    android:columnOrderPreserved="true"
+    android:rowOrderPreserved="true"
+    android:rowCount="4"
+    android:columnCount="4">
+    <TextView
+        android:layout_row="0"
+        android:layout_column="0"
+        android:layout_columnSpan="3"
+        android:layout_rowSpan="1"
+        android:background="#ff0000"
+        android:gravity="center"
+        android:layout_height="50dp"
+        android:text="@string/one"
+        android:layout_width="150dp" />
+    <TextView
+        android:layout_row="1"
+        android:layout_column="1"
+        android:layout_columnSpan="2"
+        android:layout_rowSpan="2"
+        android:background="#ff7700"
+        android:gravity="center"
+        android:layout_height="100dp"
+        android:text="@string/two"
+        android:layout_width="100dp" />
+    <TextView
+        android:layout_row="3"
+        android:layout_column="2"
+        android:layout_columnSpan="1"
+        android:layout_rowSpan="1"
+        android:background="#00ff00"
+        android:gravity="center"
+        android:layout_height="50dp"
+        android:text="@string/three"
+        android:layout_width="50dp" />
+    <TextView
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_columnSpan="1"
+        android:layout_rowSpan="1"
+        android:background="#0000ff"
+        android:gravity="center"
+        android:layout_height="50dp"
+        android:text="@string/four"
+        android:layout_width="50dp" />
+    <TextView
+        android:layout_column="3"
+        android:layout_row="0"
+        android:layout_columnSpan="1"
+        android:layout_rowSpan="4"
+        android:background="#0077ff"
+        android:gravity="center"
+        android:layout_height="200dp"
+        android:text="@string/five"
+        android:layout_width="50dp" />
+</GridLayout>

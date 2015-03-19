@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">View Samples</string>
+    <string name="spin_prompt">Choose a color</string>
+    <string name="autolink_test">
+        This is a test. My blog is at
+        http://introductiontoandroid.blogspot.com\nEmail me at
+        introtoandroid4e@gmail.com\nCall me at (800) 555-1212\nFind me at my favorite coffee joint 
+        538 Ramona St, Palo Alto, CA 94301
+	</string>
+    <array name="colors">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>yellow</item>
+        <item>magenta</item>
+        <item>cyan</item>
+        <item>orange</item>
+        <item>black</item>
+    </array>
+    <string name="dash">---</string>
+    <string name="typeHere">type here</string>
+    <string name="presetValue">preset value</string>
+    <string name="submit">Submit</string>
+    <string name="reset">reset</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="indicators">Indicators</string>
+    <string name="slider">Slider</string>
+    <string name="lastEvent">Last event:</string>
+    <string name="performAnEvent">Perform an event &#8230;</string>
+    <string name="longPressMe">Long press me</string>
+    <string name="focusMe">Focus me</string>
+    <string name="flip">Flip</string>
+    <string name="droidGreen">Droid Green</string>
+    <string name="droidOrange">Droid Orange</string>
+    <string name="sampleButtons">Sample Buttons</string>
+    <string name="basicButton">Basic Button</string>
+    <string name="toggle">Toggle</string>
+    <string name="toggleMe">Toggle me</string>
+    <string name="checkMe">Check me?</string>
+    <string name="switchMe">Switch me?</string>
+    <string name="option01">Option 1</string>
+    <string name="option02">Option 2</string>
+    <string name="option03">Option 3</string>
+    <string name="option04">Option 4</string>
+    <string name="choose01">Choose 1</string>
+    <string name="clearChoice">Clear Choice</string>
+    <string name="droidSkater02">Droid Skater 2</string>
+</resources>
